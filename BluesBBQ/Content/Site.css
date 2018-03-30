@@ -25,7 +25,35 @@ textarea {
 
 
 
+body {
+    background-color: forestgreen;
+    background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/12191175_1189449874405712_8660839380791085221_o.jpg?_nc_cat=0&oh=117543b329aa492f39dd99e8e40694ad&oe=5B733E66")
+}
 
 th {
-  font-weight: bold;
+    
+    color: blue;
+    font-size: x-large;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+td {
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 100px;
+    text-align: center;
+    color: blue;
+}
+
+a {
+    color: red;
 }
